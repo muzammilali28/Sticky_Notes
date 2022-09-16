@@ -11,7 +11,8 @@ First run `npm run server` in one terminal and then after that `npm run start` i
 
 **Note : You can look at the [package.json](https://github.com/muzammilali28/Sticky_Notes/blob/master/StickyNotes/package.json) file to see whats going on in their**
 
-Website is Running on [http://localhost:3000](http://localhost:3000) and Server is Running on [http://localhost:5000](http://localhost:5000/notes)
+Website is Running on [http://localhost:3000](http://localhost:3000)
+The Server is Running on [http://localhost:5000](http://localhost:5000/notes)
 
 Enjoy!
 
