@@ -5,13 +5,15 @@ This Project covers almost all the core concepts of React framework such as ***R
 
 ## How to Run
 
-Go in the [React_App/src](https://github.com/muzammilali28/Sticky_Notes/tree/master/StickyNotes) folder and Open it with [VSCode](https://code.visualstudio.com/).
+Go in the [ReactApp/src](https://github.com/muzammilali28/Sticky_Notes/tree/master/StickyNotes) folder and Open it with [VSCode](https://code.visualstudio.com/).
 Then Open **Two Terminals** and write the following in each terminal.
 First run `npm run server` in one terminal and then after that `npm run start` in the other terminal.
 
 **Note : You can look at the [package.json](https://github.com/muzammilali28/Sticky_Notes/blob/master/StickyNotes/package.json) file to see whats going on in their**
 
-### Website is Running on [http://localhost:3000](http://localhost:3000) and Server is Running on [http://localhost:5000](http://localhost:5000/notes) Enjoy!
+Website is Running on [http://localhost:3000](http://localhost:3000) and Server is Running on [http://localhost:5000](http://localhost:5000/notes)
+
+Enjoy!
 
 ## Later Updates
 
