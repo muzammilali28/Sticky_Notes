@@ -2,7 +2,7 @@
 
 This is a React Js project that currently uses the [json-server](https://www.npmjs.com/package/json-server) package as a `dummy backend server`.<br/>
 This Project covers some of the core concepts of React framework such as ***React Hooks, Components, Props etc***
-### Installing
+### <u>Installing</u>
 A step by step series of examples that tell you how to get a development env running
 
 Cloning the repo
