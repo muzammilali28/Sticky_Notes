@@ -2,7 +2,7 @@
 
 This is a React Js project that currently uses the [json-server](https://www.npmjs.com/package/json-server) package as a `dummy backend server`.<br/>
 This Project covers some of the core concepts of React framework such as ***React Hooks, Components, Props etc***
-### <u>Installing</u>
+### Installing
 A step by step series of examples that tell you how to get a development env running
 
 Cloning the repo
@@ -17,17 +17,18 @@ $ npm install
 
 ### How to Run
 
-Go in the [ReactApp/src](https://github.com/muzammilali28/Sticky_Notes/tree/master/StickyNotes/src) folder and Open it with [VSCode](https://code.visualstudio.com/).<br/>
-Then Open **Two Terminals** and write the following in each terminal.<br/>
-First run 
+1. Go in the [ReactApp/src](https://github.com/muzammilali28/Sticky_Notes/tree/master/StickyNotes/src) folder and Open it with [VSCode](https://code.visualstudio.com/).<br/>
+
+2. Then Open **Two Terminals** and write the following in each terminal.<br/>
+
+3. First run 
 ```
 $ npm run server 
 ```
-in one terminal and then after that 
+in one terminal and then after that in other terminal type 
 ```
 $ npm run start 
 ```
-in the other terminal.
 
 **Note : You can look at the [package.json](https://github.com/muzammilali28/Sticky_Notes/blob/master/StickyNotes/package.json) file to see whats going on in their**
 
